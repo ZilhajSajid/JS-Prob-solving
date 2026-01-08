@@ -1,3 +1,4 @@
+// Write a function that returns all even numbers from a given array.
 const evenNum = (arr) => {
   let even = [];
   for (i = 0; i < arr.length; i++) {
